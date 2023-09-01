@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erol</h1>
 <h3 align="center">Software engineer with expertise in Python, React, JavaScript, and Django.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekbostan" alt="ekbostan" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/ekbostan](https://github.com/ekbostan)
 
 - 📫 How to reach me **erolkaanbostan2000@gmail.com**
